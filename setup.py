@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
             requirements.remove(HYPEN_E_DOT)
     return requirements
 setup(
-    name='mlProject2',
+    name='Breast_Cancer_Prediction',
     version='0.0.1',
     author='Nipun',
     author_email='nipungoel346@gmail.com',
