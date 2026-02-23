@@ -13,8 +13,8 @@ This repository contains an end-to-end machine learning project for predicting b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mlProject2.git
-   cd mlProject2-main
+   git clone https://github.com/nipungoel24/Breast_Cancer_Prediction.git
+   cd Breast_Cancer_Prediction
    ```
 
 2. Create a virtual environment and activate it:
